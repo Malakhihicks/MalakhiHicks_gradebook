@@ -1,7 +1,0 @@
-function fetchGradeData() {
-  console.log("fetchGradeData called");
-}
-
-function populateGradebook(data) {
-  console.log("populateGradebook called with data:", data);
-}
